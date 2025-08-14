@@ -105,7 +105,7 @@
 ---
 
 ## ✨ Лоиҳаҳои барҷаста
-> Инҳо лоиҳаҳои намунавӣ мебошанд — линкҳоро бо лоиҳаҳои худ иваз кунед.
+> Инҳо лоиҳаҳои намунавӣ мебошанд.
 - 📂 [**project-one**](https://github.com/coderi-nav/project-one) – Вебсайти шахсӣ (Next.js + Tailwind)  
 - 📂 [**project-two**](https://github.com/coderi-nav/project-two) – Скрипти CLI (Python + Typer)  
 - 📂 [**awesome-bot**](https://github.com/coderi-nav/awesome-bot) – Боти Telegram (FastAPI + Redis)  
