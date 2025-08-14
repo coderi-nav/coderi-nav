@@ -1,16 +1,14 @@
-## Hi there 👋
+# Салом! 👋
+Ман , барномасози Python ва JavaScript 🚀
 
-<!--
-**coderi-nav/coderi-nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Дар бораи ман
+- 💻 Ман дӯстдори open-source ҳастам
+- 📚 Дар ҳоли омӯзиши Machine Learning
+- 🎯 Ҳадаф: сохтани 100 лоиҳа дар 2025
 
-Here are some ideas to get you started:
+## Лоиҳаҳои ман
+[📂 Project One](https://github.com/username/project-one) – Вебсайти шахсӣ  
+[📂 Project Two](https://github.com/username/project-two) – Барномаи Python CLI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Тамос бо ман
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram)](https://t.me/username)
